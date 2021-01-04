@@ -1,2 +1,2 @@
 # class_NLP
-collection of coursework from NLP course
+Collection of my coursework from NLP course
